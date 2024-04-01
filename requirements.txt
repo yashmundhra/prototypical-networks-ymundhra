@@ -1,5 +1,5 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.8.1
+torch==1.11.0+cu102
 torchvision==0.9.1
 torchaudio==0.8.1
 gdown==3.13.1
