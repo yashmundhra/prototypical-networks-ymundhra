@@ -3,7 +3,7 @@ parameters:
   learning_rate: 0.001
   decay_every: 20
   patience: 200
-  max_epoch: 10000
+  max_epoch: 100
   wait: 0
   stop: false
 
